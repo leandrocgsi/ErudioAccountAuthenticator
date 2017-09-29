@@ -1,1 +1,1 @@
-# ErudioAccountAuthenticator
+# Erudio Account Authenticator
