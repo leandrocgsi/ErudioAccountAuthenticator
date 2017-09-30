@@ -10,12 +10,6 @@ import android.util.Log;
 import static android.accounts.AccountManager.KEY_BOOLEAN_RESULT;
 import static br.com.erudio.authenticator.authentication.AccountGeneral.*;
 
-/**
- * Created with IntelliJ IDEA.
- * User: Udini
- * Date: 19/03/13
- * Time: 18:58
- */
 public class ErudioAuthenticator extends AbstractAccountAuthenticator {
 
     private String TAG = "ErudioAuthenticator";
