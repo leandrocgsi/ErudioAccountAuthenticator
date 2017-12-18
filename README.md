@@ -5,15 +5,7 @@ A sample app to demonstrate some of Android Authenticator's abilities.
 ![screenshots](screenshots/sampleapp.png) &nbsp;&nbsp; ![screenshots](screenshots/accounts.png)
 
 
-This subject and source code is explained in my blog post at http://Erudio.wordpress.com/2013/04/24/write-your-own-android-authenticator/
-
-
-Developed By
-============
-
-* Udi Cohen (Erudio@gmail.com)
-
-
+This sample prject was build based in source code from Udi Cohen blog post [Write your own Android Authenticator](http://blog.udinic.com/2013/04/24/write-your-own-android-authenticator/)
 
 License
 =======
